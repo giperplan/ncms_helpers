@@ -1,6 +1,7 @@
 {
     "name": "giperplan/ncms_helpers",
     "description": "Helpers for NCMS",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Yurii Kliushnykov",
